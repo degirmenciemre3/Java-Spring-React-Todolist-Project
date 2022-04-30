@@ -6,7 +6,7 @@
  <li>React : Projenin Frontend kısmını React ile oluşturdum</li>
  <li>Java Spring : Projenin Backendini Java Spring ile oluşturdum</li>
  <li>Material ui : React projeleri için kullanışlı bir kütüphane</li> 
- <li>Jwt Token (Spring) : Backend de kullanıcıların şifrelerini şifreleyerek saklayabilmek için kullandım</li>
+ <li>Jwt Token (Spring) : Authentication sağlaması</li>
  <li>Swagger (Spring) : Postman işlemlerini kolaylıkla yapabildiğiniz bir arayüz kütüphanesi </li>
  <li>H2-Database (Spring) : Web sitesinde gömülü olarak çalışır proje sonlandırıldığında veriler silinir</li>
  <li>Docker : Projenin sorunsuz taşınması ve kullanım kolaylığı için Projemi Dockera yükledim</li>
