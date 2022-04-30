@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  app:
+    build: 
+      context: .
+    volumes:
+      - .:/todolistdemofrontend
+    ports:
+      - 3000:3000
+    image: app:todolistreact
+    container_name: todolistreact_container
+    command: npm start
